@@ -1,5 +1,6 @@
-console.log('its working');
+import "./resources/styles/index.scss";
 
 if (module.hot) {
   module.hot.accept();
 }
+

@@ -1,0 +1,11 @@
+:root {
+  --mainBg: bisque;
+}
+
+$text-color: chocolate;
+
+.header {
+  &__title {
+    color: rgb(123, 255, 0);
+  }
+}
